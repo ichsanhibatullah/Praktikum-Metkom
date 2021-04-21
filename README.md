@@ -1,5 +1,7 @@
 # Praktikum-Metkom
 
+
+#'bout me
 My name is Ichsan Hibatullah, you can call me Ichsan. I'm from Balikpapan, East Kalimantan. Now, i'm an undergraduate student at Geophysics batch 2020 Universitas Gadjah Mada
 
 //
