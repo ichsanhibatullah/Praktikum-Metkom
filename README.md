@@ -1,5 +1,5 @@
 # What's inside Praktikum-Metkom Repository
-Dalam Repository kali ini akan berisi tentang tugas-tugas saya dalam praktikum Metode Komputasi.
+This Repository will contain my tasks in the Computational Method Practicum
 
 # A little bit 'bout me
 My name is Ichsan Hibatullah, you can call me Ichsan. I'm from Balikpapan, East Kalimantan. Now, i'm an undergraduate student at Geophysics batch 2020 Universitas Gadjah Mada
